@@ -1,6 +1,7 @@
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello from Jenkins CI Pipeline!");
-    }
-}ø
+public class Helloworld {
 
+    public static void main(String[] args) {
+        System.out.println("Hello DevOps CI/CD Pipeline");
+    }
+
+}
